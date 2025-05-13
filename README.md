@@ -6,9 +6,9 @@ Details of the model architecture and experimental results can be found in our p
 ```
 @article{nguyen2025stream,
   title={Streaming Sliced Optimal Transport},
-  author={Khai Nguyen and Nhat Ho},
-  year={2023},
-  pdf={https://arxiv.org/pdf/2304.13586.pdf}
+  author={Khai Nguyen},
+  year={2025},
+  journal={arXiv preprint arXiv:2505.06835},
 }
 ```
 Please CITE our paper whenever this repository is used to help produce published results or incorporated into other software.
